@@ -7,7 +7,7 @@ Este análisis forma parte de la evaluación del comportamiento de compra de los
 
 # 🔍 Análisis
 -
-#1. Distribución de Gastos (Histograma)
+1. Distribución de Gastos (Histograma)
 
 <img width="749" height="453" alt="image" src="https://github.com/user-attachments/assets/1464b7b8-1555-41f7-8295-8facf293fef0" />
 
