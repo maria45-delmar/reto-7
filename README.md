@@ -1,5 +1,5 @@
 # 📊 Análisis de patrones de gasto y clientes de alto valor
-#🟦 Contexto
+# 🟦 Contexto
 
 Este análisis forma parte de la evaluación del comportamiento de compra de los clientes en un supermercado, utilizando un conjunto de datos que registra transacciones individuales, incluyendo fecha, cliente, producto y monto total. El objetivo es identificar patrones relevantes que permitan mejorar la toma de decisiones, optimizar estrategias comerciales y reconocer a los clientes más valiosos para el negocio.
 
@@ -30,7 +30,7 @@ Dentro de esa cola larga se identifica un grupo reducido de clientes que realiza
 
 El cliente que más aportó facturación fue C0030, con un total de 36,405 USD, destacándose como el cliente de mayor valor dentro del dataset. Estos cinco clientes representan una proporción importante de los ingresos totales y deben ser considerados como un segmento estratégico para el negocio.
 -
-#🟩 Recomendaciones
+# 🟩 Recomendaciones
 1. Enfocar estrategias en clientes de alto valor
 
 Crear campañas personalizadas y beneficios exclusivos para clientes como C0030 y los demás del top 5. Dado su impacto en los ingresos, es clave fortalecer su fidelidad.
